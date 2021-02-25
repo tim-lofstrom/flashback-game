@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flashback-Game", "Flashback-Game\Flashback-Game\Flashback-Game.csproj", "{60DBC0D2-6938-4B5E-894D-1E6D4AA83F22}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Flashback-GameContent", "Flashback-Game\Flashback-GameContent\Flashback-GameContent.contentproj", "{74FAC682-44BD-4C6C-A1EE-C24E35BE88C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flashback-GameContent", "Flashback-Game\Flashback-GameContent\Flashback-GameContent.contentproj", "{74FAC682-44BD-4C6C-A1EE-C24E35BE88C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
